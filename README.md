@@ -8,5 +8,6 @@ Why the Project is useful:
 - Useful for anyone learning Python or building small command-line tools.
 
 Who Maintains and Contribute:
+
 Maintainer: Maleka Tumisho Mmatlou
 Contributions are welcome. Users can open pull requests or issues to suggest improvements.
